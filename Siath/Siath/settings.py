@@ -69,6 +69,7 @@ TEMPLATES = [
 ]
 
 WSGI_APPLICATION = 'Siath.wsgi.application'
+ASGI_APPLICATION = "Siath.asgi.application"
 
 
 # Database
