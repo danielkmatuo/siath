@@ -1,3 +1,3 @@
 # siath
-Vou dar ppush só pra ver
+Site feito por dois estudantes como presente para uma amiga
 
